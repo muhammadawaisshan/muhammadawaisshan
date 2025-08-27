@@ -17,7 +17,7 @@ I’m always looking for opportunities to collaborate on innovative **UI/UX desi
 - **Kotlin**, **Android development**, **Jetpack Compose**, **MVVM**, **KMM**, **Compose Multiplatform**, or anything related to building scalable, maintainable apps.
 
 ## 📫 How to reach me:
-- **Email**: [muhamadawaiss400@gmail.com](mailto:awaisshan20@gmail.com)
+- **Email**: [awaisshan20@gmail.com](mailto:awaisshan20@gmail.com)
 - **LinkedIn**: [Muhammad Awais](https://www.linkedin.com/in/awaiss400/)
 - **WhatsApp**: [Chat with me!](https://wa.me/+923247187192)
 
