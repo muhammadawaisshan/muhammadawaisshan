@@ -148,6 +148,9 @@ With **4+ years of intensive experience** in the mobile development ecosystem, I
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awaiss400&layout=compact&theme=dark&langs_count=8)](https://github.com/muhammadawaisshan)
 
+![Awais's Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadawaisshan&theme=github_dark)
+
+
 </div>
 
 ### 🏆 **Professional Highlights**
