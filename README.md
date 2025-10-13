@@ -143,6 +143,8 @@ With **4+ years of intensive experience** in the mobile development ecosystem, I
 ### 📈 **GitHub Performance Metrics**
 
 <div align="center">
+  
+[![Awais's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadawaisshan&show_icons=true&include_all_commits=true&count_private=true&theme=dark)](https://github.com/muhammadawaisshan)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awaiss400&layout=compact&theme=dark&langs_count=8)](https://github.com/muhammadawaisshan)
 
