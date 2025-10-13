@@ -4,7 +4,7 @@
 
 ## 🌟 About Me
 
-**Senior Android Developer** | **Mobile Architecture Specialist** | **Cross-Platform Pioneer**
+**Android Developer** | **Mobile Architecture Specialist** | **Cross-Platform Pioneer**
 
 With **4+ years of intensive experience** in the mobile development ecosystem, I've established myself as a **versatile full-stack mobile engineer** specializing in building **enterprise-grade, scalable applications** that serve millions of users worldwide. My expertise spans from **native Android development** to **cutting-edge cross-platform solutions**, with a proven track record of delivering **high-performance applications** across diverse platforms and industries.
 
