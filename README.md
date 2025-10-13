@@ -144,9 +144,9 @@ With **4+ years of intensive experience** in the mobile development ecosystem, I
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=awaiss400&show_icons=true&theme=dark&count_private=true)](https://github.com/awaiss400)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=awaiss400&show_icons=true&theme=dark&count_private=true)](https://github.com/muhammadawaisshan)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awaiss400&layout=compact&theme=dark&langs_count=8)](https://github.com/awaiss400)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awaiss400&layout=compact&theme=dark&langs_count=8)](https://github.com/muhammadawaisshan)
 
 </div>
 
