@@ -18,6 +18,19 @@ With **4+ years of intensive experience** in the mobile development ecosystem, I
 
 ---
 
+### 📈 **GitHub Performance Metrics**
+
+<div align="center">
+  
+[![Awais's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadawaisshan&theme=react-dark&hide_border=true)](https://github.com/muhammadawaisshan)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awaiss400&layout=compact&theme=dark&langs_count=8)](https://github.com/muhammadawaisshan)
+
+![Awais's Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadawaisshan&theme=github_dark)
+
+
+</div>
+
 ## 🔥 Current Innovation Focus
 
 ### 🚀 **Leading-Edge Projects:**
@@ -138,20 +151,6 @@ With **4+ years of intensive experience** in the mobile development ecosystem, I
 
 ---
 
-## 📊 **Development Analytics**
-
-### 📈 **GitHub Performance Metrics**
-
-<div align="center">
-  
-[![Awais's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadawaisshan&theme=react-dark&hide_border=true)](https://github.com/muhammadawaisshan)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awaiss400&layout=compact&theme=dark&langs_count=8)](https://github.com/muhammadawaisshan)
-
-![Awais's Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadawaisshan&theme=github_dark)
-
-
-</div>
 
 ### 🏆 **Professional Highlights**
 - 🔥 **4+ Years** of intensive mobile development experience
